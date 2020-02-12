@@ -2,6 +2,8 @@
 title: Design tools for Argon4
 layout: page
 ---
+Demo Geoposition https://edutekno.github.io/design-tools/gh-pages/code/geoposition/index.html
+
 This site contains a collection of tutorials and examples describing three development tools for creating Augmented Reality experiences. Using any one of these tools you can create complete applications for the Argon4 browser. Some of the features will also work in conventional browsers, on mobile devices (Android as well as iPhone), and even on laptops and desktops. 
 
 [Argon4](http://argonjs.io/argon-app/) is an Augmented Reality Web Browser created by the AEL (Augmented Environments Lab) at Georgia Tech. Exploiting the full power of Argon4 requires considerable programming skills. You can take leverage many of the capabilities of Argon4 by using our design tools, which require less (or no) javascript programming. These aids are:
