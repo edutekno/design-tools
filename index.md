@@ -2,7 +2,7 @@
 title: Design tools for Argon4
 layout: page
 ---
-Demo Geoposition https://edutekno.github.io/design-tools/gh-pages/code/geoposition/index.html
+Demo Geoposition https://edutekno.github.io/design-tools/code/geoposition/index.html
 
 This site contains a collection of tutorials and examples describing three development tools for creating Augmented Reality experiences. Using any one of these tools you can create complete applications for the Argon4 browser. Some of the features will also work in conventional browsers, on mobile devices (Android as well as iPhone), and even on laptops and desktops. 
 
